@@ -83,7 +83,8 @@ These are the custom-designed UI screens:
 
 
 ### 3. Home Chat View  
-![Screenshot (960)](https://github.com/user-attachments/assets/598988dd-d2a2-4c51-9559-32539bf81c58)
+![WhatsApp Image 2025-06-19 at 3 29 29 AM](https://github.com/user-attachments/assets/935d68bf-5505-47d4-ac2c-bc935583d950)
+
 
 
 ### 4. Profile Page 
